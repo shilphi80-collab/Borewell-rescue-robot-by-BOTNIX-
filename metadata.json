@@ -1,0 +1,6 @@
+{
+  "name": "BOTNIX - Borewell Rescue Robot",
+  "description": "Showcase, technical documentation, and condition monitor for the BOTNIX Borewell Rescue Robot representing Bangladesh in the Malaysia International Round.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
